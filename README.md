@@ -21,5 +21,7 @@ Then pick `dark-voyage` via _Style > Theme_ in the Omarchy menu. Repo name follo
 
 ## Photo credits
 
-- `backgrounds/2-background.jpg` — © **Victor Rosario**, shot 2026-07-26 on a Sony ILCE-6700 (E 70-350mm F4.5-6.3 G OSS). Original EXIF was stripped during optimization, so credit lives here. Used with permission / provided by the theme author — replace this note if the license differs.
-- `backgrounds/1-background.jpg` — photographer unknown (no EXIF in source). If that's your photo, tell me and I'll credit you here.
+Both backgrounds are photos by **Victor Rosario**, free for everyone to use. Author credit is also embedded in each file's EXIF/IPTC/XMP metadata.
+
+- `backgrounds/1-background.jpg` — © Victor Rosario
+- `backgrounds/2-background.jpg` — © Victor Rosario, shot 2026-07-26 on a Sony ILCE-6700 (E 70-350mm F4.5-6.3 G OSS). Downscaled from 5877x3285 for size; camera EXIF beyond the author credit was stripped during optimization.
