@@ -2,6 +2,10 @@
 
 Dark Omarchy theme built around deep sea tones (`#00212e` background, `#eaeee9` foreground, `#c7bfae` accent).
 
+## Preview
+
+![Dark Voyage preview](preview.png)
+
 ## Install
 
 ```bash
